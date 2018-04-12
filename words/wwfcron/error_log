@@ -1,0 +1,39 @@
+[10-Jan-2015 10:27:01 America/Denver] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[10-Jan-2015 10:28:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[12-Jan-2015 17:50:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:51:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:52:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:53:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:54:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:55:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:56:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:57:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:58:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 17:59:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:00:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:01:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:02:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:03:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:04:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:05:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:06:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:07:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:08:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:09:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:10:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:11:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:12:01] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[12-Jan-2015 18:13:02] PHP Fatal error:  Call to undefined function NewMagickWand() in /home3/practie3/public_html/dwwd/words/wwfcron/checkemail.php on line 17
+[15-Jan-2015 19:24:02 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[16-Jan-2015 10:34:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[16-Jan-2015 10:35:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[17-Jan-2015 10:27:02 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[17-Jan-2015 10:28:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[19-Jan-2015 10:28:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[19-Jan-2015 21:43:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[19-Jan-2015 21:44:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[21-Jan-2015 10:27:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[21-Jan-2015 10:28:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[21-Jan-2015 12:11:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[21-Jan-2015 13:52:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
+[21-Jan-2015 13:53:01 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home3/practie3/public_html/dwwd/words/connection.php on line 12
